@@ -4,9 +4,9 @@
 
 [![Header](https://raw.githubusercontent.com/peteruche21/peteruche21/master/readme_header.png "Header")](https://peteranyaogu.me/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/peteruche21/peteruche21/master/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/peteruche21/peteruche21/master/wave.gif" width="30px">
 
-My name is Peter Anyaogu (peso) and I'm a back-end developer/software engineer. I'm from Nigeria, living in Nigeria and currently doing (open ⚡ source). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Peter Anyaogu (peso) and I'm a back-end developer/software engineer. I'm from Nigeria, living in Nigeria and currently learning as well as (open ⚡ source). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
@@ -31,7 +31,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=peteruche21&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="peso's GitHub Stats" />
 </a>
 <a href="https://github.com/peteruche21/peteruche21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peteruche21&hide=java,html,css,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peteruche21&hide=java,html,css,scss&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!-- <a href="https://github.com/peteruche21/peteruche21">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peteruche21&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />

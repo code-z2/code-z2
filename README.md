@@ -4,13 +4,13 @@
 
 [![Header](https://raw.githubusercontent.com/peteruche21/peteruche21/master/readme_header.png "Header")](https://peteranyaogu.me/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/peteruche21/peteruche21/master/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/peteruche21/peteruche21/master/wave.gif" width="30px">
 
 My name is Peter Anyaogu (peso) and I'm a back-end developer/software engineer. I'm from Nigeria, living in Nigeria and currently doing (open ⚡ source). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://peteranyaogu.me/blog) as well as on [Medium](https://medium.com/) and [DEV.to](https://dev.to/).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [peteranyaogu.me](https://peteranyaogu.me/blog) as well as on [Medium](https://medium.com/) and [DEV.to](https://dev.to/).
 
 
 ## 🔧 Technologies & Tools

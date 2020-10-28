@@ -16,29 +16,20 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=vs_code&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google_cloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=google_cloud&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/peteruche21/peteruche21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peteruche21&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peteruche21&hide=java,html,css,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/peteruche21/peteruche21">

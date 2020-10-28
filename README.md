@@ -6,7 +6,7 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/peteruche21/peteruche21/master/wave.gif" width="30px">
 
-My name is Peter Anyaogu (peso) and I'm a back-end developer/software engineer. I'm from Nigeria, living in Nigeria and currently learning as well as (open ⚡ source). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Peter Anyaogu (peso) and I'm a back-end developer/software engineer. I'm from Nigeria, living in Nigeria. currently learning and engaging in (open ⚡ source). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
@@ -63,20 +63,3 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-
-<!-- ### Hi there 👋
-
-<!--
-**peteruche21/peteruche21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> -->

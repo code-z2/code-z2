@@ -6,7 +6,7 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/peteruche21/peteruche21/master/wave.gif" width="30px">
 
-My name is Peter Anyaogu (peso) and I'm a back-end developer/software engineer. I'm from Nigeria, living in Nigeria. currently learning and engaging in (open ⚡ source). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Peter Anyaogu (peso) and I'm a blockchain developer/engineer. I'm from Nigeria, living in Nigeria. currently learning and engaging in (open ⚡ source). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 

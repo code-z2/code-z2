@@ -8,18 +8,12 @@
 
 My name is Peter Anyaogu (peso) and I'm a blockchain developer/engineer. I'm from Nigeria, living in Nigeria. currently learning and engaging in (open ⚡ source). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [peteranyaogu.me](https://peteranyaogu.me/blog) as well as on [Medium](https://medium.com/) and [DEV.to](https://dev.to/).
-
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)

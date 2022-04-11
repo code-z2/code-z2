@@ -2,7 +2,7 @@
 
 <!-- profile readme credit goes to  https://github.com/MartinHeinz -->
 
-[![Header](https://raw.githubusercontent.com/peteruche21/peteruche21/master/header.png "Header")](https://peteranyaogu.me/)
+[![Header](https://raw.githubusercontent.com/peteruche21/peteruche21/master/20220411_113528_0000.png "Header")](https://peteranyaogu.me/)
 
 # Hello! <img src="https://raw.githubusercontent.com/peteruche21/peteruche21/master/wave.gif" width="30px">
 

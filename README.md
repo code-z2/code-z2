@@ -24,6 +24,7 @@ My name is Peter Anyaogu (peso) and I'm a blockchain developer/engineer. I'm fro
 <a href="https://github.com/peteruche21/peteruche21">
   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=peteruche21&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="peso's GitHub Stats" />
 </a>
+<br/>
 <a href="https://github.com/peteruche21/peteruche21">
   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peteruche21&hide=java,html,css,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>

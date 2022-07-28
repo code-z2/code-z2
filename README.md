@@ -14,6 +14,8 @@ My name is Peter Anyaogu (peso) and I'm a blockend engineer. I'm from Nigeria, l
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=TypeScript)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=Solidity)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql)

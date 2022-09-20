@@ -6,7 +6,7 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/peteruche21/peteruche21/master/wave.gif" width="30px">
 
-My name is Peter Anyaogu (peso) and I'm a blockend engineer. I'm from Nigeria, living in Nigeria. learning and engaging in (open ⚡ source). Currently learning and building with web3 technologies. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Peter Anyaogu (peso) and I'm a blockend engineer. I'm from Nigeria, living in Nigeria. learning and engaging in (open ⚡ source). Currently learning and building with web3 technologies. You can find me on <a href="https://twitter.com/peteranyaogu/"><img src="https://img.shields.io/badge/-@Peso-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>  or on <a href="https://www.linkedin.com/in/anyaogu/"><img src="https://img.shields.io/badge/-@Anyaogu-0077B5?style=flat&logo=Linkedin&logoColor=black"/></a>
 
 ## 🔧 Technologies & Tools
 
@@ -23,13 +23,31 @@ My name is Peter Anyaogu (peso) and I'm a blockend engineer. I'm from Nigeria, l
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud)
 
 ## &#x1f4c8; GitHub Stats
+
+<div align="center" display="flex">
 <a href="https://github.com/peteruche21/peteruche21">
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=peteruche21&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="peso's GitHub Stats" />
 </a>
-<h1></>
+<br>
+
+<br>
+
 <a href="https://github.com/peteruche21/peteruche21">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peteruche21&hide=java,html,css,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peteruche21&hide=java,html,css,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
 </a>
+
+<br>
+
+<br>
+
+<a href="https://github.com/peteruche21/peteruche21">
+
+   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Peteruche21&theme=dark&background=1d1f21" alt="peso's GitHub Stats" />
+
+</a>
+  <br>
+  </div>
+
 <!-- <a href="https://github.com/peteruche21/peteruche21">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peteruche21&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> -->

@@ -2,11 +2,9 @@
 
 <!-- profile readme credit goes to  https://github.com/MartinHeinz -->
 
-[![Header](https://raw.githubusercontent.com/peteruche21/peteruche21/master/20220411_113528_0000.png "Header")](https://peteranyaogu.me/)
+# Bonjour! <img src="https://raw.githubusercontent.com/peteruche21/peteruche21/master/wave.gif" width="30px">
 
-# Hello! <img src="https://raw.githubusercontent.com/peteruche21/peteruche21/master/wave.gif" width="30px">
-
-My name is Peter Anyaogu (peso) and I'm a blockend engineer. I'm from Nigeria, living in Nigeria. learning and engaging in (open ⚡ source). Currently learning and building with web3 technologies. You can find me on <a href="https://twitter.com/peteranyaogu/"><img src="https://img.shields.io/badge/-@Peso-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>  or on <a href="https://www.linkedin.com/in/anyaogu/"><img src="https://img.shields.io/badge/-@Anyaogu-0077B5?style=flat&logo=Linkedin&logoColor=black"/></a>
+My name is Peter Anyaogu (peso) and I'm a software engineer from Nigeria, learning and engaging in (open ⚡ source). Currently learning and building with web3 technologies. You can find me on <a href="https://twitter.com/peteranyaogu/"><img src="https://img.shields.io/badge/-@anyaogu_eth_-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>  or on <a href="https://www.linkedin.com/in/anyaogu/"><img src="https://img.shields.io/badge/-@anyaogu-0077B5?style=flat&logo=Linkedin&logoColor=black"/></a>
 
 ## 🔧 Technologies & Tools
 
@@ -70,6 +68,14 @@ My name is Peter Anyaogu (peso) and I'm a blockend engineer. I'm from Nigeria, l
 [1]: https://twitter.com/PeterAnyaogu
 [2]: https://github.com/peteruche21
 [3]: https://www.linkedin.com/in/anyaogu/
+
+
+## small pieces by me 
+- unblocking creative ownership with web3 social 
+- liquidity fragmentation in defi
+- custom rainbowkit authentication adapter with siwe and weavedb
+- building an arweave application with weavedb and trpc
+- stateless and serverless arweave application on execution machine 
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->

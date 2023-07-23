@@ -1,86 +1,69 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in martinheinz article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-<!-- profile readme credit goes to  https://github.com/MartinHeinz -->
+<div align="center">
 
-# Bonjour! <img src="https://raw.githubusercontent.com/peteruche21/peteruche21/master/wave.gif" width="30px">
+[![avatar][1.1]][1]
 
-My name is Peter Anyaogu (peso) and I'm a software engineer from Nigeria, learning and engaging in (open ⚡ source). Currently learning and building with web3 technologies. You can find me on <a href="https://twitter.com/peteranyaogu/"><img src="https://img.shields.io/badge/-@anyaogu_eth_-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>  or on <a href="https://www.linkedin.com/in/anyaogu/"><img src="https://img.shields.io/badge/-@anyaogu-0077B5?style=flat&logo=Linkedin&logoColor=black"/></a>
+# anyaogu.eth
 
-## 🔧 Technologies & Tools
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/anyaogu/)
+[![twitter](https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF)](https://twitter.com/peteranyaogu/)
+[![discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discordapp.com/users/700327336507080734)
+[![website](https://img.shields.io/badge/-website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://anyaogu.eth.limo)
+[![mirror icon][1.2]][2]
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=TypeScript)
-![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=Solidity)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker)
-![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud)
+[![Dark Stats](https://github-readme-stats.vercel.app/api?username=peteruche21&theme=github_dark&card_width=495&hide_title=true&show_icons=true&rank_icon=github#gh-dark-mode-only)](https://github.com/peteruche21/github-readme#gh-dark-mode-only)
+[![Light Stats](https://github-readme-stats.vercel.app/api?username=peteruche21&theme=github_light&card_width=495&hide_title=true&show_icons=true&rank_icon=github#gh-light-mode-only)](https://github.com/peteruche21/github-readme#gh-light-mode-only)
 
-## &#x1f4c8; GitHub Stats
+[![Coding Stats Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=peteruche21&langs_count=5&theme=github_dark&hide_title=true&hide=java,html,css,scss,dart,cmake,kotlin,makefile,swift&layout=donut#gh-dark-mode-only)](https://github.com/peteruche21/github-readme#gh-dark-mode-only)
+[![Coding Stats Light](https://github-readme-stats.vercel.app/api/top-langs/?username=peteruche21&langs_count=5&theme=github_light&hide_title=true&hide=java,html,css,scss,dart,cmake,kotlin,makefile,swift&layout=donut#gh-light-mode-only)](https://github.com/peteruche21/github-readme#gh-light-mode-only)
 
-<div align="center" display="flex">
-<a href="https://github.com/peteruche21/peteruche21">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=peteruche21&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="peso's GitHub Stats" />
-</a>
-<br>
+[![wakatime stats dark](https://ximon-readme-stats.vercel.app/api/wakatime?username=peteruche21&langs_count=5&theme=github_dark&hide_title=true&range=last_7_days#gh-dark-mode-only)](https://github.com/ximon-x/github-readme#gh-dark-mode-only)
+[![wakatime stats light](https://ximon-readme-stats.vercel.app/api/wakatime?username=peteruche21&langs_count=5&theme=github_light&hide_title=true&range=last_7_days#gh-light-mode-only)](https://github.com/ximon-x/github-readme#gh-light-mode-only)
 
-<br>
+</div>
 
-<a href="https://github.com/peteruche21/peteruche21">
-    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peteruche21&hide=java,html,css,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
-</a>
+## 🧰 ToolBox
 
-<br>
+<div align="center">
 
-<br>
+![TYPESCRIPT](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![SOLIDITY](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=ffffff)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=cplusplus&logoColor=00599C)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)
+![NEXT.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff)
+![ETHEREUM](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=ffffff)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)
+![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
+![CHAINLINK](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=ffffff)
+![CANVA](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=ffffff)
+![MONGODB](https://img.shields.io/badge/Mongodb-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=ffffff)
+![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
+![POSTGRES](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff)
+![GRAPHQL](https://img.shields.io/badge/Graphql-E10098?style=flat-square&logo=graphql&logoColor=ffffff)
+![JAVASCRIPT](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
+![SHELL](https://img.shields.io/badge/ZSH-4EAA25?style=flat-square&logo=gnubash&logoColor=ffffff)
+![DAISYUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=ffffff)
+![OZ](https://img.shields.io/badge/Openzeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=ffffff)
+![NODE](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=ffffff)
+![GIT Actions](https://img.shields.io/badge/CI-Github-2088FF?style=flat-square&logo=githubactions&logoColor=ffffff)
+![MD](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff)
+![GITPOD](https://img.shields.io/badge/Gitpod-FFAE33?style=flat-square&logo=gitpod&logoColor=ffffff)
+![GCP](https://img.shields.io/badge/Cloud-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=ffffff)
 
-<a href="https://github.com/peteruche21/peteruche21">
+</div>
 
-   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Peteruche21&theme=dark&background=1d1f21" alt="peso's GitHub Stats" />
+## 📰 Recent Articles
 
-</a>
-  <br>
-  </div>
+- [Interoperable Lending with Zero Knowledge Proofs](https://mirror.xyz/anyaogu.eth/nRL9JKcUH7NJu1hD0M6jNeaU2U6o3Wkf4WHDCxp6t8k)
+- [NFT gated web3 application using polybase, whal3s NFT validation utility, and react query](https://mirror.xyz/anyaogu.eth/Pf__G5CTqExqXYpbrjQcUfr6mMiJaDf1GCGMAn7TWro)
+- [Liquidity Fragmentation in DeFi](https://mirror.xyz/anyaogu.eth/IKhk4L9G0egR5-88gIGXmU9pnZijsJmBf7RAPuu4i1A)
+- [unblocking creative ownership with Web3 social](https://mirror.xyz/anyaogu.eth/N8-rCYjxKRw6rq-v1gaYeI_QBwCajRYZjQbjDx0KPTw)
 
-<!-- <a href="https://github.com/peteruche21/peteruche21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peteruche21&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
+[1]: https://anyaogu.eth.limo (anyaogu.eth)
+[2]: https://www.mirror.xyz/anyaogu.eth (mirror.xyz)
 
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/peteruche21/peteruche21/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/PeterAnyaogu
-[2]: https://github.com/peteruche21
-[3]: https://www.linkedin.com/in/anyaogu/
-
-
-## small pieces by me 
-- unblocking creative ownership with web3 social 
-- liquidity fragmentation in defi
-- custom rainbowkit authentication adapter with siwe and weavedb
-- building an arweave application with weavedb and trpc
-- stateless and serverless arweave application on execution machine 
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+[1.1]: https://ik.imagekit.io/p3buruum5/readme/wizardavatar.png?tr=w-200,h-200
+[1.2]: https://ik.imagekit.io/p3buruum5/readme/mirror.png?tr=w-75

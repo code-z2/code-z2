@@ -14,8 +14,10 @@
 [![Dark Stats](https://github-readme-stats.vercel.app/api?username=peteruche21&theme=github_dark&card_width=495&hide_title=true&show_icons=true&rank_icon=github#gh-dark-mode-only)](https://github.com/peteruche21/github-readme#gh-dark-mode-only)
 [![Light Stats](https://github-readme-stats.vercel.app/api?username=peteruche21&theme=github_light&card_width=495&hide_title=true&show_icons=true&rank_icon=github#gh-light-mode-only)](https://github.com/peteruche21/github-readme#gh-light-mode-only)
 
+<!---
 [![Coding Stats Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=peteruche21&langs_count=5&theme=github_dark&hide_title=true&hide=html,css,scss,dart,cmake,kotlin,makefile,swift&layout=donut#gh-dark-mode-only)](https://github.com/peteruche21/github-readme#gh-dark-mode-only)
 [![Coding Stats Light](https://github-readme-stats.vercel.app/api/top-langs/?username=peteruche21&langs_count=5&theme=github_light&hide_title=true&hide=html,css,scss,dart,cmake,kotlin,makefile,swift&layout=donut#gh-light-mode-only)](https://github.com/peteruche21/github-readme#gh-light-mode-only)
+-->
 
 [![wakatime stats dark](https://ximon-readme-stats.vercel.app/api/wakatime?username=peteruche21&langs_count=5&hide=json,tsconfig,javascript,html,css,scss,cmake,kotlin,makefile,swift,yaml,toml&theme=github_dark&hide_title=true&range=last_7_days#gh-dark-mode-only)](https://github.com/ximon-x/github-readme#gh-dark-mode-only)
 [![wakatime stats light](https://ximon-readme-stats.vercel.app/api/wakatime?username=peteruche21&langs_count=5&hide=json,tsconfig,javascript,html,css,scss,cmake,kotlin,makefile,swift,yaml,toml&theme=github_light&hide_title=true&range=last_7_days#gh-light-mode-only)](https://github.com/ximon-x/github-readme#gh-light-mode-only)

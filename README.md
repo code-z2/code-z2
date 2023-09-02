@@ -1,9 +1,16 @@
 
+<!-- [![avatar][1.1]][1]
+-->
+## 📰 Recent Articles
+
+- [Interoperable Lending with Zero Knowledge Proofs](https://mirror.xyz/anyaogu.eth/nRL9JKcUH7NJu1hD0M6jNeaU2U6o3Wkf4WHDCxp6t8k)
+- [NFT gated web3 application using polybase, whal3s NFT validation utility, and react query](https://mirror.xyz/anyaogu.eth/Pf__G5CTqExqXYpbrjQcUfr6mMiJaDf1GCGMAn7TWro)
+- [Liquidity Fragmentation in DeFi](https://mirror.xyz/anyaogu.eth/IKhk4L9G0egR5-88gIGXmU9pnZijsJmBf7RAPuu4i1A)
+- [unblocking creative ownership with Web3 social](https://mirror.xyz/anyaogu.eth/N8-rCYjxKRw6rq-v1gaYeI_QBwCajRYZjQbjDx0KPTw)
+
+---
+
 <div align="center">
-
-[![avatar][1.1]][1]
-
-# anyaogu.eth
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/anyaogu/)
 [![twitter](https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF)](https://twitter.com/peteranyaogu/)
@@ -24,48 +31,36 @@
 
 </div>
 
-## 🧰 ToolBox
+---
 
 <div align="center">
 
-![TYPESCRIPT](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
-![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![SOLIDITY](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=ffffff)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=cplusplus&logoColor=00599C)
-![React.js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)
-![NEXT.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff)
-![ETHEREUM](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=ffffff)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)
-![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
-![CHAINLINK](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=ffffff)
-![CANVA](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=ffffff)
-![MONGODB](https://img.shields.io/badge/Mongodb-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=ffffff)
-![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
-![POSTGRES](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff)
-![GRAPHQL](https://img.shields.io/badge/Graphql-E10098?style=flat-square&logo=graphql&logoColor=ffffff)
-![JAVASCRIPT](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
-![SHELL](https://img.shields.io/badge/ZSH-4EAA25?style=flat-square&logo=gnubash&logoColor=ffffff)
-![DAISYUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=ffffff)
-![OZ](https://img.shields.io/badge/Openzeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=ffffff)
-![NODE](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=ffffff)
-![GIT Actions](https://img.shields.io/badge/CI-Github-2088FF?style=flat-square&logo=githubactions&logoColor=ffffff)
-![MD](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff)
-![GITPOD](https://img.shields.io/badge/Gitpod-FFAE33?style=flat-square&logo=gitpod&logoColor=ffffff)
-![GCP](https://img.shields.io/badge/Cloud-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=ffffff)
+![RUST](https://img.shields.io/badge/Rust-363636?style=flat&logo=rust&logoColor=ffffff)
+![TYPESCRIPT](https://img.shields.io/badge/Typescript-363636?style=flat&logo=typescript&logoColor=ffffff)
+![SOLIDITY](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=ffffff)
+![PYTHON](https://img.shields.io/badge/Python-363636?style=flat&logo=python&logoColor=ffffff)
+![DART](https://img.shields.io/badge/Dart-363636?style=flat&logo=dart&logoColor=ffffff)
+
+![NEXT.js](https://img.shields.io/badge/Next.js-363636?style=flat&logo=next.js&logoColor=ffffff)
+![React.js](https://img.shields.io/badge/React-363636?style=flat&logo=react&logoColor=ffffff)
+![Tailwind](https://img.shields.io/badge/Tailwind-363636?style=flat&logo=tailwindcss&logoColor=ffffff)
+![DAISYUI](https://img.shields.io/badge/DaisyUI-363636?style=flat&logo=daisyui&logoColor=ffffff)
+![GRAPHQL](https://img.shields.io/badge/Graphql-363636?style=flat&logo=graphql&logoColor=ffffff)
+![NODE](https://img.shields.io/badge/NodeJS-363636?style=flat&logo=node.js&logoColor=ffffff)
+![MD](https://img.shields.io/badge/Markdown-363636?style=flat&logo=markdown&logoColor=ffffff)
+
+![ETHEREUM](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=ffffff)
+![IPFS](https://img.shields.io/badge/IPFS-3C3C3D?style=flat&logo=ipfs&logoColor=ffffff)
+![MONGODB](https://img.shields.io/badge/Mongodb-3C3C3D?style=flat&logo=mongodb&logoColor=ffffff)
+![POSTGRES](https://img.shields.io/badge/Postgres-3C3C3D?style=flat&logo=postgresql&logoColor=ffffff)
+![DOCKER](https://img.shields.io/badge/Docker-3C3C3D?style=flat&logo=docker&logoColor=ffffff)
+![GIT Actions](https://img.shields.io/badge/CI-Github-FCC624?style=flat&logo=githubactions&logoColor=ffffff)
+![GCP](https://img.shields.io/badge/cloud-GCP-FCC624?style=flat&logo=googlecloud&logoColor=ffffff)
+![LINUX](https://img.shields.io/badge/OS-Arch-FCC624?style=flat&logo=linux&logoColor=ffffff)
+![SHELL](https://img.shields.io/badge/shell-ZSH-FCC624?style=flat&logo=gnubash&logoColor=ffffff)
 
 </div>
 
-## 📰 Recent Articles
-
-- [Interoperable Lending with Zero Knowledge Proofs](https://mirror.xyz/anyaogu.eth/nRL9JKcUH7NJu1hD0M6jNeaU2U6o3Wkf4WHDCxp6t8k)
-- [NFT gated web3 application using polybase, whal3s NFT validation utility, and react query](https://mirror.xyz/anyaogu.eth/Pf__G5CTqExqXYpbrjQcUfr6mMiJaDf1GCGMAn7TWro)
-- [Liquidity Fragmentation in DeFi](https://mirror.xyz/anyaogu.eth/IKhk4L9G0egR5-88gIGXmU9pnZijsJmBf7RAPuu4i1A)
-- [unblocking creative ownership with Web3 social](https://mirror.xyz/anyaogu.eth/N8-rCYjxKRw6rq-v1gaYeI_QBwCajRYZjQbjDx0KPTw)
-
-[1]: https://anyaogu.eth.limo (anyaogu.eth)
 [2]: https://www.mirror.xyz/anyaogu.eth (mirror.xyz)
 
-[1.1]: https://ik.imagekit.io/p3buruum5/readme/wizardavatar.png?tr=w-200,h-200
 [1.2]: https://ik.imagekit.io/p3buruum5/readme/mirror.png?tr=w-75

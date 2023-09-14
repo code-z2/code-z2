@@ -3,6 +3,8 @@
 -->
 ## 📰 Recent Articles
 
+- [Verifying OTP On-Chain with Phala Phat Functions](https://mirror.xyz/anyaogu.eth/5Ejt15zwbVokWlD32fPY8cJFmU5w0rmkmiC2XG_fmmI)
+- [Phala Turbo Repo: Kickstart Your Phala Network Development](https://mirror.xyz/anyaogu.eth/dorFXynNttF2AFmZx1nJ1XEKZ7eYfvAgA75bCIciIng)
 - [Interoperable Lending with Zero Knowledge Proofs](https://mirror.xyz/anyaogu.eth/nRL9JKcUH7NJu1hD0M6jNeaU2U6o3Wkf4WHDCxp6t8k)
 - [NFT gated web3 application using polybase, whal3s NFT validation utility, and react query](https://mirror.xyz/anyaogu.eth/Pf__G5CTqExqXYpbrjQcUfr6mMiJaDf1GCGMAn7TWro)
 - [Liquidity Fragmentation in DeFi](https://mirror.xyz/anyaogu.eth/IKhk4L9G0egR5-88gIGXmU9pnZijsJmBf7RAPuu4i1A)

@@ -58,8 +58,8 @@
 ![DOCKER](https://img.shields.io/badge/Docker-3C3C3D?style=flat&logo=docker&logoColor=ffffff)
 ![GIT Actions](https://img.shields.io/badge/CI-Github-FCC624?style=flat&logo=githubactions&logoColor=ffffff)
 ![GCP](https://img.shields.io/badge/cloud-GCP-FCC624?style=flat&logo=googlecloud&logoColor=ffffff)
-![LINUX](https://img.shields.io/badge/OS-Arch-FCC624?style=flat&logo=linux&logoColor=ffffff)
-![SHELL](https://img.shields.io/badge/shell-ZSH-FCC624?style=flat&logo=gnubash&logoColor=ffffff)
+![MACOS](https://img.shields.io/badge/OS-MacOS-FCC624?style=flat&logo=apple&logoColor=ffffff)
+![SHELL](https://img.shields.io/badge/shell-Fish-FCC624?style=flat&logo=gnubash&logoColor=ffffff)
 
 </div>
 

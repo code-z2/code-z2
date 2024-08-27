@@ -17,13 +17,16 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/anyaogu/)
 [![twitter](https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF)](https://twitter.com/peteranyaogu/)
 [![discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discordapp.com/users/700327336507080734)
-[![website](https://img.shields.io/badge/-website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://anyaogu.eth.limo)
 [![mirror icon][1.2]][2]
+<!---
+[![website](https://img.shields.io/badge/-website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://anyaogu.eth.limo)
+-->
 
+<!---
 [![Dark Stats](https://github-readme-stats.vercel.app/api?username=peteruche21&theme=github_dark&card_width=495&hide_title=true&show_icons=true&rank_icon=github#gh-dark-mode-only)](https://github.com/peteruche21/github-readme#gh-dark-mode-only)
 [![Light Stats](https://github-readme-stats.vercel.app/api?username=peteruche21&theme=github_light&card_width=495&hide_title=true&show_icons=true&rank_icon=github#gh-light-mode-only)](https://github.com/peteruche21/github-readme#gh-light-mode-only)
 
-<!---
+
 [![Coding Stats Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=peteruche21&langs_count=5&theme=github_dark&hide_title=true&hide=html,css,scss,dart,cmake,kotlin,makefile,swift&layout=donut#gh-dark-mode-only)](https://github.com/peteruche21/github-readme#gh-dark-mode-only)
 [![Coding Stats Light](https://github-readme-stats.vercel.app/api/top-langs/?username=peteruche21&langs_count=5&theme=github_light&hide_title=true&hide=html,css,scss,dart,cmake,kotlin,makefile,swift&layout=donut#gh-light-mode-only)](https://github.com/peteruche21/github-readme#gh-light-mode-only)
 -->
@@ -43,6 +46,7 @@
 ![PYTHON](https://img.shields.io/badge/Python-363636?style=flat&logo=python&logoColor=ffffff)
 ![DART](https://img.shields.io/badge/Dart-363636?style=flat&logo=dart&logoColor=ffffff)
 
+<!---
 ![NEXT.js](https://img.shields.io/badge/Next.js-363636?style=flat&logo=next.js&logoColor=ffffff)
 ![React.js](https://img.shields.io/badge/React-363636?style=flat&logo=react&logoColor=ffffff)
 ![Tailwind](https://img.shields.io/badge/Tailwind-363636?style=flat&logo=tailwindcss&logoColor=ffffff)
@@ -60,7 +64,7 @@
 ![GCP](https://img.shields.io/badge/cloud-GCP-FCC624?style=flat&logo=googlecloud&logoColor=ffffff)
 ![MACOS](https://img.shields.io/badge/OS-MacOS-FCC624?style=flat&logo=apple&logoColor=ffffff)
 ![SHELL](https://img.shields.io/badge/shell-Fish-FCC624?style=flat&logo=gnubash&logoColor=ffffff)
-
+-->
 </div>
 
 [2]: https://www.mirror.xyz/anyaogu.eth (mirror.xyz)

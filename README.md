@@ -130,4 +130,4 @@ Software engineering is both a science and an art. Take pride in your work, seek
  
 > 👉 Remember: Happy developers write better code!
 
-> These principles are credited to - Alexandre Zajac
+> These principles are credited to - Alexandre Zajac and they are here to remind myself to always do better in areas i can.

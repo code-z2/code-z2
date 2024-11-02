@@ -1,5 +1,4 @@
-
-<!-- [![avatar][1.1]][1]
+<!--
 ## 📰 Recent Articles
 
 - [Verifying OTP On-Chain with Phala Phat Functions](https://mirror.xyz/anyaogu.eth/5Ejt15zwbVokWlD32fPY8cJFmU5w0rmkmiC2XG_fmmI)
@@ -9,7 +8,7 @@
 - [Liquidity Fragmentation in DeFi](https://mirror.xyz/anyaogu.eth/IKhk4L9G0egR5-88gIGXmU9pnZijsJmBf7RAPuu4i1A)
 - [unblocking creative ownership with Web3 social](https://mirror.xyz/anyaogu.eth/N8-rCYjxKRw6rq-v1gaYeI_QBwCajRYZjQbjDx0KPTw)
 
---->
+
 
 <div align="center">
 
@@ -17,27 +16,29 @@
 [![twitter](https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF)](https://twitter.com/peteranyaogu/)
 [![discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discordapp.com/users/700327336507080734)
 [![mirror icon][1.2]][2]
+-->
+## Hi am peter anyaogu, and i like to code.
 <!---
 [![website](https://img.shields.io/badge/-website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://anyaogu.eth.limo)
--->
 
-<!---
+
+
 [![Dark Stats](https://github-readme-stats.vercel.app/api?username=peteruche21&theme=github_dark&card_width=495&hide_title=true&show_icons=true&rank_icon=github#gh-dark-mode-only)](https://github.com/peteruche21/github-readme#gh-dark-mode-only)
 [![Light Stats](https://github-readme-stats.vercel.app/api?username=peteruche21&theme=github_light&card_width=495&hide_title=true&show_icons=true&rank_icon=github#gh-light-mode-only)](https://github.com/peteruche21/github-readme#gh-light-mode-only)
 
 
 [![Coding Stats Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=peteruche21&langs_count=5&theme=github_dark&hide_title=true&hide=html,css,scss,dart,cmake,kotlin,makefile,swift&layout=donut#gh-dark-mode-only)](https://github.com/peteruche21/github-readme#gh-dark-mode-only)
 [![Coding Stats Light](https://github-readme-stats.vercel.app/api/top-langs/?username=peteruche21&langs_count=5&theme=github_light&hide_title=true&hide=html,css,scss,dart,cmake,kotlin,makefile,swift&layout=donut#gh-light-mode-only)](https://github.com/peteruche21/github-readme#gh-light-mode-only)
+
 -->
 
-<!---
 
 [![wakatime stats dark](https://ximon-readme-stats.vercel.app/api/wakatime?username=peteruche21&langs_count=5&hide=json,tsconfig,javascript,html,css,scss,cmake,kotlin,makefile,swift,yaml,toml&theme=github_dark&hide_title=true&range=last_7_days#gh-dark-mode-only)](https://github.com/ximon-x/github-readme#gh-dark-mode-only)
 [![wakatime stats light](https://ximon-readme-stats.vercel.app/api/wakatime?username=peteruche21&langs_count=5&hide=json,tsconfig,javascript,html,css,scss,cmake,kotlin,makefile,swift,yaml,toml&theme=github_light&hide_title=true&range=last_7_days#gh-light-mode-only)](https://github.com/ximon-x/github-readme#gh-light-mode-only)
 
 </div>
 
----
+<!---
 
 <div align="center">
 
@@ -75,8 +76,7 @@
 
 [1.2]: https://ik.imagekit.io/p3buruum5/readme/mirror.png?tr=w-75
 
-
-## Hi am peter anyaogu, and i like to code.
+<!--
 
 But more importantly, keeping these things in mind.
 

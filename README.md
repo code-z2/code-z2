@@ -9,14 +9,15 @@
 - [unblocking creative ownership with Web3 social](https://mirror.xyz/anyaogu.eth/N8-rCYjxKRw6rq-v1gaYeI_QBwCajRYZjQbjDx0KPTw)
 
 
-
+-->
 <div align="center">
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/anyaogu/)
 [![twitter](https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF)](https://twitter.com/peteranyaogu/)
 [![discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discordapp.com/users/700327336507080734)
 [![mirror icon][1.2]][2]
--->
+
+
 ## Hi am peter anyaogu, and i like to code.
 <!---
 [![website](https://img.shields.io/badge/-website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://anyaogu.eth.limo)
